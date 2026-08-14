@@ -1,0 +1,10 @@
+PyQt5>=5.15
+requests>=2.28
+beautifulsoup4>=4.12
+cloudscraper>=1.2
+rapidfuzz>=3.0
+pypinyin>=0.50
+zhon>=2.0
+pyinstaller>=6.0
+# 词典构建脚本用（可选，运行时不需要）
+lxml>=4.9

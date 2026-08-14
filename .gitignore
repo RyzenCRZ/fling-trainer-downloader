@@ -1,0 +1,26 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# === PyInstaller 构建产物 ===
+build/
+dist/
+
+# === IDE / 系统文件 ===
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# === 运行时本地数据（不纳入版本控制） ===
+*.db
+*.db-journal
+*.log
+config.json
